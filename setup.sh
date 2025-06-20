@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Setup Haraka
-./mail-stack/haraka/install_haraka.sh
+./mail-stack/haraka/haraka_setup.sh

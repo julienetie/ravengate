@@ -1,0 +1,14 @@
+{
+  "name": "haraka_local",
+  "description": "An SMTP Server",
+  "version": "0.0.1",
+  "repository": "",
+  "license": "MIT",
+  "devDependencies": {
+    "haraka-plugin-headers": "^1.0.6",
+    "haraka-plugin-helo.checks": "^1.0.3",
+    "haraka-plugin-mail_from.is_resolvable": "^1.1.0",
+    "haraka-plugin-rcpt_to-strip-tagging": "^1.0.0",
+    "tls": "^0.0.1"
+  }
+}
