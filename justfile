@@ -32,3 +32,18 @@ haraka-ssl:
 
 email-in:
     scripts/test_email_inbound.sh
+
+install-nats-server:
+    scripts/install_nats_server.sh
+
+nats-jetstream-setup:
+    scripts/nats_jetstream_setup.sh
+
+nats-jetstream-enable-services:
+    scripts/nats_jetstream_enable_services.sh
+
+nats-cli-i:
+    scripts/nats_cli_i.sh
+
+nats-verify:
+    scripts/nats_verify.sh
