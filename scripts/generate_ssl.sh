@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Generate TLS certificates for Haraka
-HARAKA_CONFIG_DIR="./mail-stack/haraka/config"
+HARAKA_CONFIG_DIR="./mail-stack/haraka/service/config"
 
 # Check if config directory exists
 if [ ! -d "$HARAKA_CONFIG_DIR" ]; then
